@@ -24,7 +24,7 @@ This project demonstrates application-layer AI engineering by binding determinis
    ollama run qwen2.5:3b
 3. Install dependencies:
 4. ```bash
-   pip install -r requirements.txt
+   pip install langchain langchain-core langchain-ollama langchain-classic
 5. Run the agent:
    ```bash
    python main.py
